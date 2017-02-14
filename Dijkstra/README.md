@@ -6,4 +6,6 @@
 <p align="center">
 <img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testA.png"/>
 </p>
+<p align="center">
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testB.png"/>
 </p>
