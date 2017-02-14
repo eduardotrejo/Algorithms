@@ -8,14 +8,14 @@
 * Inputs the characters for each node
 * Inputs starting node
 <p align="center">
-Test Case A
+Test Case A<br>
 <img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testA.png"/>
 </p>
 <p align="center">
-Test Case B
+Test Case B<br>
 <img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testB.png"/>
 </p>
 <p align="center">
-Test Case B
+Test Case C<br>
 <img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testC.png"/>
 </p>
