@@ -12,4 +12,9 @@ intermediate and final results for the input matrix.
 * Maximum input matrix is less than or equal to 11-by-11
 * The matrix uses -1 to indicate infinity
 
+<p align="center">
+Test Case A<br>
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testA.png"/>
+</p>
+
 
