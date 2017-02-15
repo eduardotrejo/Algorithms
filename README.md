@@ -1,1 +1,1 @@
-Contains some of algorithms that I have worked with.
+Contains some of the algorithms that I have worked with.
