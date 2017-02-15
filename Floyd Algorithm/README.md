@@ -14,7 +14,7 @@ intermediate and final results for the input matrix.
 
 <p align="center">
 Test Case A<br>
-<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testA.png"/>
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Floyd%20Algorithm/TestA.png"/>
 </p>
 
 
