@@ -5,5 +5,5 @@
 
 <p align="center">
 Test Case A<br>
-<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dijkstra/Screenshots/testA.png"/>
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dynamic%20Programming/Knapsack/Example.png"/>
 </p>
