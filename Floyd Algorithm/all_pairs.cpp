@@ -8,7 +8,6 @@
 *			- maximum input matrix is less than or equal to 11-by-11
 *			- the matrix uses -1 to indicate infinity
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 5/1/2015
 */
 
