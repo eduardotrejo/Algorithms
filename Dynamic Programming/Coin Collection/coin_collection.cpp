@@ -9,7 +9,6 @@
 *			displaying one of them is good enough.
 *			- Board size is less than or equal to 50 x 50.
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 4/24/2015
 */
 
