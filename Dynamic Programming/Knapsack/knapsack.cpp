@@ -4,7 +4,6 @@
 *			The program reads in the weight and value of each item from a user
 *			and determines the best subset.
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 5/1/2015
 */
 
