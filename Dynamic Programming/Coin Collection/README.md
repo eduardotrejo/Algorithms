@@ -11,7 +11,7 @@
 <p>The board size is less than or equal to 50 x 50.</p>
 
 <p align="center">
-Test 1
+Test 1<br/>
 <img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dynamic%20Programming/Coin%20Collection/test1.png"/>
 </p>
 <p align="center">
