@@ -12,9 +12,9 @@
 
 <p align="center">
 Test 1
-<img sr=""/>
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dynamic%20Programming/Coin%20Collection/test1.png"/>
 </p>
 <p align="center">
 Outcome
-<img sr=""/>
+<img src="https://github.com/eduardotrejo/Algorithms/blob/master/Dynamic%20Programming/Coin%20Collection/outcome.png"/>
 </p>
